@@ -54,7 +54,7 @@ This interactive Power BI dashboard provides insights into **job demand trends**
 
 > To view or interact with the dashboard:
 
-1. Download the `.pbix` file from this repository.
+1. Download the (https://github.com/Oyinkon/Job-demand/blob/main/unemployment.pbix) file from this repository.
 2. Open it in **Power BI Desktop** (free to download from [Microsoft](https://powerbi.microsoft.com/desktop/)).
 3. Use slicers to filter by **Month** or **Location**.
 4. Explore different metrics and visualize trends.
